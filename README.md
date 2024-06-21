@@ -14,7 +14,7 @@ This project demonstrates how to use the Pixe.la API to create a user account, d
 ## Installation
 #### 1. Clone the repository:
 ```
-git clone https://github.com/xinconggg/pixela-graph-integration.git
+git clone https://github.com/xinconggg/Habit-Tracker.git
 cd pixela-graph-integration
 ```
 #### 2. Install the required Python library:
