@@ -2,7 +2,7 @@ import requests
 import random
 
 USERNAME = "xincong"
-TOKEN = "jnad2nqionedjkand21noi3n1ja"
+TOKEN = "jnad2nqionedjkand21noi3n1io23n1ijb31ij2n31oi23n1io23nn1ja"
 GRAPH_ID = "graph1"
 pixela_endpoint = "https://pixe.la/v1/users"
 
